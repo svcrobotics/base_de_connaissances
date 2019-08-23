@@ -16,5 +16,5 @@ Quelles sont les compétences essentielles pour devenir hacker?
 
 [Réponse](https://github.com/svcrobotics/base_de_connaissances/blob/master/Securite_Informatique/Hacker.md)
 
-## 
+
 
