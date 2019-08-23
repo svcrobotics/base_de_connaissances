@@ -10,3 +10,11 @@ Quelles sont les différents métiers de l'informatique?
 
 [Réponse](https://github.com/svcrobotics/base_de_connaissances/blob/master/Syst%C3%A8mes%20d'Information/SI.md)
 
+## La sécurité informatique
+
+Quelles sont les compétences essentielles pour devenir hacker?
+
+[Réponse](https://github.com/svcrobotics/base_de_connaissances/blob/master/Securite_Informatique/Hacker.md)
+
+## 
+
